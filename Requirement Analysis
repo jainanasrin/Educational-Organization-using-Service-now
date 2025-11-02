@@ -1,0 +1,7 @@
+In the requirement analysis phase, the focus is on identifying the needs and expectations of students, faculty, and administrative staff who will use the ServiceNow platform. This phase helps understand which services should be automated and how workflows should function to improve efficiency.
+
+The process begins with gathering information through interviews, surveys, meetings, and observation. Common requirements include managing student queries, handling IT support tickets, issuing certificates, tracking attendance and approvals, and maintaining academic or departmental assets. Each requirement is analyzed to determine what features ServiceNow should support, such as self-service portals, automated routing, notification alerts, dashboard reports, and role-based access.
+
+Functional requirements describe how the system should operate—such as how a student submits a request or how staff resolve it. Non-functional requirements focus on performance, security, usability, and scalability to ensure smooth usage even during peak academic periods.
+
+The output of this phase is a detailed requirements document that clearly defines what the system must achieve. This ensures alignment between stakeholders and provides a strong foundation for the design and implementation phases ahead.
