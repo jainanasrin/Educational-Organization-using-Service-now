@@ -1,0 +1,9 @@
+In the project design phase, the focus is on defining how ServiceNow will be structured and customized to meet the needs of the educational organization. This stage translates requirements gathered earlier into detailed system designs, workflows, and user interface layouts.
+
+Key services such as Student Helpdesk, Faculty Support, Certificate Requests, IT Service Desk, Fee Queries, and Asset Management are mapped into ServiceNow modules. User roles are defined for students, faculty, administrators, and IT staff to ensure secure and role-based access. Workflow diagrams are created to show how requests move from submission to approval and resolution.
+
+The design phase also involves creating data models, forms, catalogue items, automation rules, and notification structures. Special attention is given to ensuring the system remains user-friendly so that students and staff can easily raise requests through the self-service portal.
+
+System integration needs—such as linking ServiceNow with attendance systems, library management, or ERP—are also planned. Design reviews are performed to ensure scalability, accuracy, and compliance with institutional policies.
+
+This phase ensures that the system blueprint is clear and ready for development, providing a structured foundation for smooth implementation.
