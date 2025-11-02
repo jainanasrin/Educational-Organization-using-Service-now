@@ -1,0 +1,7 @@
+In the performance phase, the goal is to evaluate how well the ServiceNow platform operates under actual usage conditions within the educational organization. The system is tested to ensure it remains efficient, responsive, and stable when students, faculty, and administrative staff use it simultaneously.
+
+During this phase, key workflows such as Student Helpdesk tickets, IT support requests, attendance submissions, timetable access, and certificate applications are monitored for speed and reliability. Performance testing checks factors like page load time, workflow execution speed, system throughput, and response time under different load levels. Peak usage scenarios, such as exam periods or admission seasons, are simulated to analyze how the system behaves under stress.
+
+Performance tuning activities may include optimizing scripts, adjusting database queries, improving server capacity, and enhancing caching. Key performance metrics are recorded and compared with predefined benchmarks to ensure the system meets expected service levels.
+
+The outcome of this phase is a stable, scalable, and efficient ServiceNow environment that supports smooth operation across the educational institution with minimal delays and maximum user satisfaction.
